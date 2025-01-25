@@ -1,0 +1,6 @@
+media-internal/
+script/.env
+script/.venv/
+**/__init__.py
+**/__pycache__
+.DS_Store

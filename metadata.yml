@@ -1,0 +1,46 @@
+project:
+  name: "transit-time-script"
+  display_name: "🚲 Transit Time Script"
+  title: "Transit Time Script"
+  date_created: "2025-01-25"
+  status: "archive" # backlog, in_progress, complete, archive
+  priority: 0
+  description: ""
+  featured_content: 
+    type: "image" # image or code
+    source: ""  # Just the filename, e.g. "hero.jpg"
+    language: ""
+    start_line: 0
+    end_line: 0
+  tags: []
+
+physical_specifications:
+  dimensions:
+    width: ""
+    height: ""
+    depth: ""
+    unit: ""
+  weight:
+    value: ""
+    unit: ""
+  materials: []
+
+technical_requirements:
+  power: ""
+  space: ""
+  lighting: ""
+  mounting: ""
+  temperature_range: ""
+  humidity_range: ""
+  ventilation_needs: ""
+
+exhibition:
+  setup:
+    time_required: ""
+    people_required: ""
+    tools_required: []
+    instructions: []
+  maintenance:
+    tasks: []
+    supplies_needed: []
+  history: []
