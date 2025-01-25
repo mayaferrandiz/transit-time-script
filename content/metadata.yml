@@ -5,7 +5,7 @@ project:
   date_created: "2024-09-25"
   status: "complete" # backlog, in_progress, complete, archive
   priority: 0
-  description: ""
+  description: "Automatic calendar blocking while you're going to be in-transit"
   featured_content: 
     type: "src/Code.gs" # image or code
     source: ""  # Just the filename, e.g. "hero.jpg"
