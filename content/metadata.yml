@@ -2,16 +2,16 @@ project:
   name: "transit-time-script"
   display_name: "🚲 Transit Time Script"
   title: "Transit Time Script"
-  date_created: "2025-01-25"
-  status: "archive" # backlog, in_progress, complete, archive
+  date_created: "2024-09-25"
+  status: "complete" # backlog, in_progress, complete, archive
   priority: 0
   description: ""
   featured_content: 
-    type: "image" # image or code
+    type: "src/Code.gs" # image or code
     source: ""  # Just the filename, e.g. "hero.jpg"
     language: ""
-    start_line: 0
-    end_line: 0
+    start_line: 50
+    end_line: 75
   tags: []
 
 physical_specifications:
